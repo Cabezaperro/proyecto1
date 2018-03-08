@@ -1,1 +1,1 @@
-Código de la clase1.cs
+public static void clase1()
